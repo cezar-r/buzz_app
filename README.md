@@ -37,5 +37,8 @@ https://user-images.githubusercontent.com/59450965/228997085-05310cc7-54c3-405b-
 ## Updated Home Page
 https://user-images.githubusercontent.com/59450965/228997852-5c965592-9f59-454a-af10-70d6d6aaf49c.mov
 
+## Recommendations
+- Our recommendation algorithm is fairly simple: We simply take a table of our users and their genre preferences, and do a cosine similarity test on it. Looking at the 100 most similar users, we then look at which videos those users had the most interaction with. These videos are then recommended. We ocassionally recommend random videos to see if we can learn something new about the user, which is commonly known as the Multi-armed Bandit problem.
+
 ## TODO
 - This app has a plethora of TODO's. There still needs to be basic features implemented such as following, searching, and messaging. Currently, we have a a basic foundation and proof of concept.
