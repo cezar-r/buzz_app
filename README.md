@@ -17,7 +17,7 @@
 <img src= "https://github.com/cezar-r/buzz_app/blob/main/assets/IMG-0739.PNG" height="60%" width="30%">
 </p>
 
-## Home Page
+## Home Page and Custom Waveform Playback Widget
 https://user-images.githubusercontent.com/59450965/228997085-05310cc7-54c3-405b-8f97-9c399ca80d6d.mov
 
 ## Commenting
